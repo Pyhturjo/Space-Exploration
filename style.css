@@ -1,0 +1,39 @@
+
+body {
+    
+    color: #49dcff;    
+    text-align: center;
+  font-family: "Orbitron", sans-serif;
+  text-shadow:-2px 2px 20px white;
+  
+}
+
+
+#hero {
+    margin: 0;
+    background-size: cover;
+    background-image: url("images/mxj_files-lightning-28517.gif");
+    padding: 10px 0px 40px 0;
+    
+
+}
+
+
+.btn {
+padding:6px 12px;
+background-color: white;
+border: none;
+font-family:"Orbitron", sans-serif; 
+font-weight: bolder;
+color: #21667d;
+}
+
+
+.sp{
+    border-bottom: 5px solid red;
+}
+
+.image{ 
+    width:200px; ;
+    
+}
